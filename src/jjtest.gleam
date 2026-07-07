@@ -2,14 +2,11 @@ import gleam/io
 
 // A "hello world" program
 pub fn main() -> Nil {
-  print_hello()
-  print_goodbye()
+  print("Hello, world!")
+  print("Goodbye, world!")
 }
 
-fn print_hello() -> Nil {
-  io.println("Hello, world!")
-}
-
-fn print_goodbye() -> Nil {
-  io.println("Goodbye, world!")
+// a function that prints a message
+fn print(m: String) -> Nil {
+  io.print(m)
 }

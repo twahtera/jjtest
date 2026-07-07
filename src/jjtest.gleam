@@ -5,6 +5,7 @@ import gleam/io
 // Runs when the program starts
 pub fn main() -> Nil {
   print("Hello, world!")
+  print("Goodbye, world!")
 }
 
 // a function that prints a message

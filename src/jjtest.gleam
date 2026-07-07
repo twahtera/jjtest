@@ -3,7 +3,6 @@ import gleam/io
 // A "hello world" program
 pub fn main() -> Nil {
   print("Hello, world!")
-  print("Goodbye, world!")
 }
 
 // a function that prints a message

@@ -1,4 +1,4 @@
-# jjtest
+# jjtest - test repo for jj
 
 [![Package Version](https://img.shields.io/hexpm/v/jjtest)](https://hex.pm/packages/jjtest)
 [![Hex Docs](https://img.shields.io/badge/hex-docs-ffaff3)](https://hexdocs.pm/jjtest/)
